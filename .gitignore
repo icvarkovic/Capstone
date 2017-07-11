@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+JEOPARDY_CSV.csv
+JeopardyEDA.ipynb
+LDA Preparation/
+NLP Text Featurization.pdf
+Naive Bayes.pdf
